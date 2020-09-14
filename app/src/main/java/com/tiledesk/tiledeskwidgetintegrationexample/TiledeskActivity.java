@@ -52,7 +52,7 @@ public class TiledeskActivity extends AppCompatActivity {
         webSettings.setDomStorageEnabled(true);
         webSettings.setJavaScriptCanOpenWindowsAutomatically(true);
 
-        myWebView.loadUrl("https://widget.tiledesk.com/v4/assets/twp/index.html?isOpen=true&tiledesk_projectid=5f5f3ba9be3e7400123ad9e9&tiledesk_fullscreenMode=true&tiledesk_hideHeaderCloseButton=true&tiledesk_isopen=true");
+        myWebView.loadUrl("https://widget.tiledesk.com/v4/assets/twp/index.html?isOpen=true&tiledesk_projectid=5f5f3c240b2844001210bf7a&tiledesk_fullscreenMode=true&tiledesk_hideHeaderCloseButton=true&tiledesk_isopen=true");
 
     }
 
